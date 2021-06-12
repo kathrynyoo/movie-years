@@ -1,0 +1,5 @@
+user can:
+ - search a movie
+    - gues movies release date
+- view past guesses and correct answer
+- view guess accuracy percentage

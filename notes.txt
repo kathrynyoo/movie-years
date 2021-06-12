@@ -1,0 +1,14 @@
+Classes:
+- movie
+    - title
+    - year released
+
+- guess
+    - movie
+    - year guessed
+    - correct (bool)
+
+- User
+    - name
+    - guesses
+    - password (hashed)
